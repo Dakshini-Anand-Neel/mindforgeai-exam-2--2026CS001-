@@ -88,7 +88,7 @@ mindforgeai-exam-2-2026CS001
 ---
 
 ## Submission Links
-- GitHub Repository: (paste your link here)  
-- Google Drive (if required): (paste link here)  
-- Colab Notebook (if used): (paste link here)  
+- GitHub Repository: (https://github.com/Dakshini-Anand-Neel/mindforgeai-exam-2--2026CS001-)  
+- Google Drive (if required): (https://drive.google.com/drive/folders/1ORgWbE0rMzTniPybjNvMmUM0XkiMkfcV?usp=sharing)  
+- Colab Notebook (if used): (https://colab.research.google.com/drive/1QG1dnnetebrorMAgaZD2zdUcXHoOZvja?usp=sharing)  
 ```
