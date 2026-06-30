@@ -1,7 +1,7 @@
 # MindForgeAI Module Assessment 2
 
 ## Student Details
-**Name:** Diksha  
+**Name:** Dakshini Anand Neel 
 **Student ID:** 2026CS001  
 **Course:** Software Engineering  
 **Module:** MindForgeAI Assessment 2  
