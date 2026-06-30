@@ -1,0 +1,9 @@
+student_id,name,department,attendance_pct,diary_entries,tasks_completed,assignment_score,lab_score,readiness_score,band
+2026CS001,Aditi,Computer Engineering,92,12,8,84,88,85.14,Strong
+2026CS002,Bhavana,Computer Engineering,64,6,5,58,61,58.17,Developing
+2026IT001,Chaitra,Information Technology,78,9,7,72,76,72.66,Strong
+2026IT002,Divya,Information Technology,55,4,3,46,52,49.46,Developing
+2026CE001,Esha,Civil Engineering,88,10,8,79,82,80.84,Strong
+2026CE002,Fatima,Civil Engineering,71,8,6,66,69,66.83,Developing
+2026CS003,Gauri,Computer Engineering,96,14,9,91,94,91.70,Excellent
+2026IT003,Harshada,Information Technology,43,2,2,35,41,37.66,Support
